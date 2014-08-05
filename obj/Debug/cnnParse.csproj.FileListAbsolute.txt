@@ -1,0 +1,5 @@
+c:\users\eric\documents\visual studio 2012\Projects\cnnParse\cnnParse\bin\Debug\cnnParse.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\cnnParse\cnnParse\bin\Debug\cnnParse.exe
+c:\users\eric\documents\visual studio 2012\Projects\cnnParse\cnnParse\bin\Debug\cnnParse.pdb
+c:\users\eric\documents\visual studio 2012\Projects\cnnParse\cnnParse\obj\Debug\cnnParse.exe
+c:\users\eric\documents\visual studio 2012\Projects\cnnParse\cnnParse\obj\Debug\cnnParse.pdb
